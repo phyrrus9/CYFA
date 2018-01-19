@@ -1,0 +1,69 @@
+# depslib dependency file v1.0
+1516277877 source:d:\users\phyrrus9\documents\projects\as\main.c
+	<parser/rules.h>
+	<data_structures/linked_list.h>
+
+1511718496 d:\users\phyrrus9\documents\projects\as\instruction.h
+	<stdint.h>
+
+1511904867 source:d:\users\phyrrus9\documents\projects\as\instruction.c
+	<stdint.h>
+	<Winsock2.h>
+	<arpa/inet.h>
+	<instruction.h>
+
+1511905234 d:\users\phyrrus9\documents\projects\as\\instruction.h
+	<instruction/data.h>
+	<instruction/transfer.h>
+	<instruction/branch.h>
+
+1516215148 d:\users\phyrrus9\documents\projects\as\\instruction\data.h
+	<stdint.h>
+
+1511722887 d:\users\phyrrus9\documents\projects\as\\instruction\transfer.h
+	<stdint.h>
+
+1511720418 d:\users\phyrrus9\documents\projects\as\\instruction\branch.h
+	<stdint.h>
+
+1511808431 source:d:\users\phyrrus9\documents\projects\as\instruction\data.c
+	<instruction/data.h>
+
+1511808565 source:d:\users\phyrrus9\documents\projects\as\instruction\transfer.c
+	<instruction/transfer.h>
+
+1511808381 source:d:\users\phyrrus9\documents\projects\as\instruction\branch.c
+	<instruction/branch.h>
+
+1516270696 source:d:\users\phyrrus9\documents\projects\as\language\rules.c
+	<stdlib.h>
+	<language.h>
+
+1516216736 d:\users\phyrrus9\documents\projects\as\\language.h
+	<stdint.h>
+	<instruction.h>
+	<language/enumerations.h>
+	<language/parsing.h>
+	<language/constants.h>
+
+1516183161 d:\users\phyrrus9\documents\projects\as\\language\enumerations.h
+
+1516272974 d:\users\phyrrus9\documents\projects\as\\language\parsing.h
+
+1516268685 d:\users\phyrrus9\documents\projects\as\\language\constants.h
+
+1516278061 source:d:\users\phyrrus9\documents\projects\as\parser\rules.c
+	<stdlib.h>
+	<string.h>
+	<parser/rules.h>
+	<data_structures/linked_list.h>
+
+1516275705 d:\users\phyrrus9\documents\projects\as\\parser\rules.h
+
+1516274458 source:d:\users\phyrrus9\documents\projects\as\data_structures\linked_list.c
+	<stdlib.h>
+	<assert.h>
+	<data_structures/linked_list.h>
+
+1516274378 d:\users\phyrrus9\documents\projects\as\\data_structures\linked_list.h
+
